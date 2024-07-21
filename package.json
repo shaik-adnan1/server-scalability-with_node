@@ -1,0 +1,15 @@
+{
+  "name": "testing_node_clusters",
+  "version": "1.0.0",
+  "description": "trying to implement clustuers in web",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan_a",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
